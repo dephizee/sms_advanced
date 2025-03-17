@@ -1,0 +1,2 @@
+/Users/abdulhafizabdulfatai/AndroidStudioProjects/sms_advanced/example/android/app/.cxx/Debug/394z665c/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/abdulhafizabdulfatai/AndroidStudioProjects/sms_advanced/example/android/app/.cxx/Debug/394z665c/arm64-v8a/CMakeFiles/rebuild_cache.dir
